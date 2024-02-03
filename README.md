@@ -1,3 +1,4 @@
+<img align = "center" alt = "Banner"  src = "https://user-images.githubusercontent.com/45299156/166454578-d1a648ed-eb23-4741-89de-ffc61fc2a669.png">
 <h1 align="center">Hi 👋, I'm Rishi Chirchi</h1>
 <h3 align="center">An enthusiastic Mobile developer based in India</h3>
 
