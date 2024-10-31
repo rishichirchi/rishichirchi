@@ -1,16 +1,14 @@
 <img align = "center" alt = "Banner" src = "https://user-images.githubusercontent.com/45299156/166454578-d1a648ed-eb23-4741-89de-ffc61fc2a669.png">
 <h1 align="center">Hi 👋, I'm Rishi Chirchi</h1>
-<h3 align="center">An enthusiastic Mobile developer based in India</h3>
+<h3 align="center">An enthusiastic Developer based in India</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishichirchi&label=Profile%20views&color=0e75b6&style=flat" alt="rishichirchi" /> </p>
 
 
-- 🔭 I’m currently working on [Event Hub](https://github.com/rishichirchi/Event-Hub)
+- 🔭 I’m currently working on [Mivro](https://github.com/rishichirchi/Mivro)
 
-- 🌱 I’m currently learning **Kotlin, Spring, MongoDB**
-
-- 👯 I’m looking to collaborate on **Web Development**
+- 🌱 I’m currently learning **Golang, SpringBoot**
 
 - 💬 Ask me about **Flutter, Java, Firebase**
 
