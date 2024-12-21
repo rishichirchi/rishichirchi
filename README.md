@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **Flutter, Springboot, Java**
 
-- 📫 How to reach me **rishiraj.chirchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
