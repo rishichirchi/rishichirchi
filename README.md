@@ -46,7 +46,7 @@
 </table>
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohit-nagaraj&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishichirchi&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishichirchi&theme=aura_dark"></td>
   </tr>
 </table>
