@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend Development and DevOps**
 
-- 💬 Ask me about **Flutter, Springboot, Java**
+- 💬 Ask me about **Flutter, Springboot, Java, Go**
 
 
 <h3 align="left">Connect with me:</h3>
