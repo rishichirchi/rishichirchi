@@ -1,4 +1,4 @@
-<img align="center" alt="Banner"  src="https://user-images.githubusercontent.com/45299156/166454578-d1a648ed-eb23-4741-89de-ffc61fc2a669.png">
+<!-- <img align="center" alt="Banner"  src="https://user-images.githubusercontent.com/45299156/166454578-d1a648ed-eb23-4741-89de-ffc61fc2a669.png"> -->
 <h1 align="center">Hey, I'm Rishi Chirchi</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rishichirchi&label=Visitors&color=0e75b6&style=flat-square" alt="rishichirchi" /> 
