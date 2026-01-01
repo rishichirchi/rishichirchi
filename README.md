@@ -4,15 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=rishichirchi&label=Visitors&color=0e75b6&style=flat-square" alt="rishichirchi" /> 
 </p>
 
-- 🌱 I’m currently learning **Golang, Springboot**
-
-- 👯 I’m looking to collaborate on **DevOps**
-
-- 🤝 I’m looking for help with **Backend Development and DevOps**
-
-- 💬 Ask me about **Flutter, Springboot, Java, Go**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/rishi_chirchi" target="blank">
